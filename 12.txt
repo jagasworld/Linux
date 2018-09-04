@@ -1,0 +1,7 @@
+CA7 Admin Notes
+
+The job waits until the address space becomes active. This check
+occurs during every CA WA CA 7 Edition submission cycle unless the enhanced
+submission selection feature (SUBSEL=ENH) is active, in which case the check occurs at
+most once per minute. 
+
