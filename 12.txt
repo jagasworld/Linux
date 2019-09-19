@@ -5,3 +5,4 @@ occurs during every CA WA CA 7 Edition submission cycle unless the enhanced
 submission selection feature (SUBSEL=ENH) is active, in which case the check occurs at
 most once per minute. 
 testing for Jenkins & GIT
+#added this on 19.09 from master
